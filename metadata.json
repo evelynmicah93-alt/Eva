@@ -1,0 +1,6 @@
+{
+  "name": "EcoNiche Gemma - Species Modeling Guide",
+  "description": "An AI-guided research companion powered by Gemma 4 for MSc & PhD scholars conducting Species Distribution Modeling (SDM), field data recording, and statistical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
